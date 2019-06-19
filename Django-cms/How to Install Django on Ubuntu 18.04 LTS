@@ -1,0 +1,35 @@
+
+
+
+
+    Prerequisites
+    Step 1 - Setup Python 3 on Ubuntu 18.04 LTS
+    Step 2 - Install Django
+        2.1. Install Django with Pip
+        2.2. Install Django with Virtualenv
+        2.3. Install Django from Git Repository
+    Step 3 - Create you First Project with Django
+    Conclusion
+
+__How to Install Django on Ubuntu 18.04 LTS__
+
+
+Django is a web application framework written in python that follows the MVC (Model-View-Controller) architecture, 
+it is available for free and released under an open source license. It is fast and designed to help developers get 
+their application online as quickly as possible. Django helps developers to avoid many common security mistakes like SQL Injection,
+XSS, CSRF and clickjacking.
+
+Django is maintained by the Django Software Foundation and used by many big technology companies, government,
+and other organizations. Some large websites like Pinterest, Mozilla, Instagram, Discuss, 
+The Washington Post etc. are developed with Django.
+
+In this tutorial, we will install Django 2.0.5 stable version on an Ubuntu 18.04 LTS (Bionic Beaver) server. 
+Django can be installed on a server in many ways, in this tutorial, I will show you 3 different ways to install Django:
+
+
+
+ -   Django installation with pip.  
+ -   Install Django with virtualenv.  
+ -   Install Django from it's github repository.  
+
+When the Django installation is done, I will show you the first steps to start a new project with the Django web framework.
