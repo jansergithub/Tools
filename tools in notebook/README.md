@@ -10,13 +10,13 @@
 -  __Making the Notes stand out__  
 We can use alert/Note boxes in your Jupyter Notebooks to highlight something important or anything that needs to stand out. The colour of the note depends upon the type of alert that is specified. Just add any or all of the following codes in a cell that needs to be highlighted.   
    - __Blue Alert Box: info__  
-     <div class="alert alert-block alert-info">
+     <div class="alert alert-block alert-info"
      <b>Tip:</b> Use blue boxes (alert-info) for tips and notes. 
      If it’s a note, you don’t have to include the word “Note”.
-     </div>
+     </div
    -  __Yellow Alert Box: Warning__
-      <div class="alert alert-block alert-warning">
+      <div class="alert alert-block alert-warning"
       <b>Example:</b> Yellow Boxes are generally used to include additional examples or mathematical formulas.
-      </div>
+      </div
   
   
