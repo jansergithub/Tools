@@ -4,6 +4,9 @@ With interactive widgets in a Notebook, you can use the full power of Python to 
   
 https://github.com/jupyter-widgets/ipywidgets  
 
+
+https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/  
+
 ipywidgets are interactive HTML widgets for Jupyter notebooks and the IPython kernel.
 
 Notebooks come alive when interactive widgets are used. Users gain control of their data and can visualize changes in the data.
